@@ -1,3 +1,5 @@
+# Written by Brentspine 2025
+# Copy only with credit
 import asyncio
 from enum import Enum
 import random
