@@ -1,3 +1,5 @@
+# Written by Brentspine 2025
+# Copy only with credit
 import minescript # type: ignore 
 import asyncio
 import parse_nbt
